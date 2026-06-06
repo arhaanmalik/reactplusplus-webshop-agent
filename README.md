@@ -46,15 +46,6 @@ Instead of committing to a single action, the agent constructs calibrated action
 * Semantic similarity based search-action selection.
 * Automated evaluation on 500 WebShop instructions.
 
-### Uncertainty-Aware Framework
-
-* Learned state-action scoring function.
-* Conformal prediction based uncertainty estimation.
-* State-dependent adaptive calibration.
-* Calibrated action-set generation.
-* BFS-guided exploration strategy.
-* Improved reliability and decision-making efficiency.
-
 ---
 
 
