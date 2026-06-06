@@ -97,9 +97,9 @@ reactpp-webshop-agent/
 ├── conformal_predictor_webshop.py
 ├── run_conformal_calibration_webshop.py
 │
-├── results/
 │
-├── MTP_Report.pdf
+├── MTP_1.pdf
+├── MTP_2.pdf
 │
 ├── README.md
 ├── requirements.txt
