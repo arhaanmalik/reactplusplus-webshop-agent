@@ -1,0 +1,70 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+
+venv/
+.venv/
+env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Environment Variables
+
+.env
+
+# Logs
+
+*.log
+
+# MacOS
+
+.DS_Store
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Hugging Face
+
+cache/
+hf_cache/
+
+# Weights & Checkpoints
+
+checkpoints/
+models/
+
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# WandB
+
+wandb/
+
+# Results
+
+*.tmp
+
+# Build
+
+build/
+dist/
+*.egg-info/
+
+# Misc
+
+*.bak
+*.swp
